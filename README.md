@@ -1,7 +1,7 @@
 # Hi, I’m @srgvlsn 👋
 
 ### 👀 Interests
-I'm passionate about **Data Science**, **Data Engineering**, and **Web Design**. I'm always eager to learn and experiment with new technologies and tools in these fields.
+I'm passionate about **Data Engineering**, **Data Science**, and **Web Design**. I'm always eager to learn and experiment with new technologies and tools in these fields.
 
 ### 🌱 Learning
 Currently, I'm deep diving into **Python**, **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I'm always on the lookout for projects that push my boundaries and help me grow.
