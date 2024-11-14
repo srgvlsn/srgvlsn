@@ -12,9 +12,6 @@ I'm open to collaborating on any interesting **Data Science**, **Machine Learnin
 ### 📫 Contact Me
 Feel free to reach out to me at: [sreeragtvalsan@gmail.com](mailto:sreeragtvalsan@gmail.com)
 
-### 😄 Pronouns
-He/Him
-
 ### ⚡ Fun Fact
 I love exploring how data science and web design can intersect to create beautiful, data-driven applications!
 
